@@ -1,2 +1,2 @@
 # Password-Manager
-This is a normal Password Manager which one acan use
+This is a normal Password Manager which anyone can use
